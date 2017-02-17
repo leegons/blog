@@ -56,7 +56,7 @@
 
 代码：
 
-```cpp
+```c
 bool validNode(struct TreeNode* root, int* min, int* max) {
     return (!min || *min < root->val) &&
            (!max || *max > root->val) &&
