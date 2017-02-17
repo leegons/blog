@@ -15,5 +15,7 @@
 >
 > If there are multiple such windows, you are guaranteed that there will always be only one unique minimum window in S.
 
-题意：
+题意：给出S和T，从S中找出包含T所有字母的最短子串。
+
+
 
