@@ -13,3 +13,15 @@
 
 题意：没看懂。
 
+
+
+输入：
+
+"bafoothefoobarmanabfooo"
+
+\["foo","bar"\]
+
+输出：
+
+\[8\]
+
