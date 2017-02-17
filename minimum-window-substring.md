@@ -1,13 +1,12 @@
 # Minimum Window Substring
 
-> link: https://leetcode.com/problems/minimum-window-substring/
+> link: [https://leetcode.com/problems/minimum-window-substring/](https://leetcode.com/problems/minimum-window-substring/)
 >
 > Given a string S and a string T, find the minimum window in S which will contain all the characters in T in complexity O\(n\).
 >
 > For example,  
 > **S**=`"ADOBECODEBANC"`  
-> **T**=`"ABC"`  
->
+> **T**=`"ABC"`
 >
 > Minimum window is`"BANC"`.
 >
@@ -16,5 +15,5 @@
 >
 > If there are multiple such windows, you are guaranteed that there will always be only one unique minimum window in S.
 
-
+题意：
 
