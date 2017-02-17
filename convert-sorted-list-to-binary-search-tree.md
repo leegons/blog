@@ -1,8 +1,10 @@
 # Convert Sorted List to Binary Search Tree
 
-> link: https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+> link: [https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 >
 > Given a singly linked list where elements are sorted in ascending order, convert it to a height balanced BST.
+
+题意：将一个有序的链表转换成平衡二叉树。
 
 首先想到的方式是分治递归，因为平衡二叉树的左右子树的高度差不超过1，在左右子树子节点数量差不超过一的情况下很容易达到。所以解决的思路大概为：
 
