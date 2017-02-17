@@ -57,6 +57,15 @@
 代码：
 
 ```c
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     struct TreeNode *left;
+ *     struct TreeNode *right;
+ * };
+ */
+
 bool validNode(struct TreeNode* root, int* min, int* max) {
     return (!min || *min < root->val) &&
            (!max || *max > root->val) &&
