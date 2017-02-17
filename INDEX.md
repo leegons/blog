@@ -2,7 +2,9 @@
 
 ## leetcode
 
-* \[Convert Sorted List to Binary Search Tree\]\(https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/\)
+* \[Convert Sorted List to Binary Search Tree\]\(leetcode/convert-sorted-list-to-binary-search-tree.md\)
+
+
 
 
 
