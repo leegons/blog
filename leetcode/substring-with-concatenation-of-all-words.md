@@ -11,8 +11,7 @@
 > You should return the indices:`[0,9]`.  
 > \(order does not matter\).
 
-题意：没看懂。
-
+题意：从字符串s中找到一个子字符串，包含指定数组words中所有的字符串**一次**，同时不能出现多余的字符。words中所有的字符串都是等长的。
 
 
 输入：
